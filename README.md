@@ -1,1 +1,9 @@
-# rolepilot-demo
+# RolePilot 招聘画像工作台
+
+公开作品体验：岗位讨论、画像版本、候选人分析、HR反馈与画像校准。
+
+全部示例为虚构，AI生成使用明确标识的规则模拟。修改仅保存在访客自己的浏览器中；请只输入虚构材料。真实API能力在本机版使用。
+
+## GitHub Pages 部署
+
+仓库设置 → Pages → Deploy from a branch → main → /(root)。发布目录根部为本仓库。无需运行构建命令。
